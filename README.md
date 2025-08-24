@@ -1,6 +1,6 @@
 # 📊 Projeto de Análise de Vendas  
 
-Transformação de dados dispersos em insights claros e acionáveis.  
+Gostaria de apresentar meu mais recente projeto desenvolvido no Power BI, onde coloquei em prática os princípios do ETL (Extrair, Transformar e Carregar), modelagem de dados e criação de dashboards interativos.
 
 ## O que foi realizado  
 - Estruturação e limpeza dos dados com técnicas de **ETL**  
