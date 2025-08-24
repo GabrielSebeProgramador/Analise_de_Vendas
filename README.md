@@ -1,2 +1,8 @@
 # Analise_de_Vendas
-Este projeto tem como objetivo colocar em prática os princípios do ETL (Extrair, Transformar e Carregar), modelagem de dados e criação de dashboards interativos.
+📊 A partir de dados brutos sobre vendas, metas, devoluções, clientes e produtos, realizei:
+• Estruturação e limpeza dos dados com técnicas de ETL
+• Modelagem relacional entre tabelas
+• Criação de medidas e análises com DAX
+• Desenvolvimento de relatórios visuais e dinâmicos para tomada de decisão
+
+💡O objetivo foi transformar dados dispersos em insights claros e acionáveis
